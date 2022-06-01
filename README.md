@@ -19,6 +19,4 @@ Faça um programa que leia um valor informado pelo usuário e diga se o valor in
 ## 6
 Faça um programa para ler 3 valores (considere que não serão informados valores iguais) e escrever o maior deles. 
 ## 7
-Faça um programa que leia  3 valores (considere que não serão informados valores iguais) e escrever a soma dos 2 maiores. 
-## 8
 Faça um para ler 2 valores informados pelo usuário e se o segundo valor informado for ZERO, deve ser lido um novo valor, ou seja, para o segundo valor não pode ser aceito o valor zero nem negativo e imprimir o resultado da divisão do primeiro valor lido pelo segundo valor lido. 
